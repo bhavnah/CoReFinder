@@ -142,3 +142,9 @@ python plotMeanCoverage.py chr1.cov 1000 1 100000
 ```
 
 The above will plot the mean coverage on chr1 in regions 1 bp to 100 Kbp using a bin size of 1000.
+
+# Relevant publications
+
+Bayer PE, Hurgobin B, Golicz AA, Chan CK, Yuan Y, Lee H, Renton M, Meng J, Li R, Long Y, Zou J, Bancroft I, Chalhoub B, King GJ, Batley J, Edwards D. 2017. Assembly and comparison of two closely related Brassica napus genomes. Plant Biotechnology Journal. Dec 15(12):1602-1610. doi:10.1111/pbi.12742
+
+Hane JK, Ming Y, Kamphuis LG, Nelson MN, Garg G, Atkins CA, Bayer, PE, Bravo A, Bringans S, Cannon S, Edwards D, Foley R, Gao LL, Harrison MJ, Huang W, Hurgobin B, Li S, Liu CW, McGrath A, Morahan G, Murray J, Weller J, Jian J and Singh KB. 2017. A comprehensive draft genome sequence for lupin (Lupinus angustifolius), an emerging health food: insights into plant–microbe interactions and legume evolution. Plant Biotechnol Journal. Mar; 15(3): 318-330. doi: 10.1111/pbi.12615
